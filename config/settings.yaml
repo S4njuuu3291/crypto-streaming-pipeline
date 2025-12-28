@@ -1,0 +1,8 @@
+kafka:
+    bootstrap_servers: localhost:9092
+    topic: crypto_prices
+
+symbols:
+    - ethusdt
+    - btcusdt
+    - solusdt

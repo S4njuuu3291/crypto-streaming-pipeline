@@ -7,7 +7,6 @@ from select import poll
 import websockets
 import yaml
 from confluent_kafka import Producer
-
 from models import PriceEvent
 
 
